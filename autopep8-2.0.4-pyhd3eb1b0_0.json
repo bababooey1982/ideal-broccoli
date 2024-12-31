@@ -1,0 +1,59 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "pycodestyle >=2.10.0",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\autopep8-2.0.4-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/autopep8-2.0.4.dist-info/AUTHORS.rst",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/INSTALLER",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/LICENSE",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/METADATA",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/RECORD",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/REQUESTED",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/WHEEL",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/direct_url.json",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/entry_points.txt",
+    "Lib/site-packages/autopep8-2.0.4.dist-info/top_level.txt",
+    "Lib/site-packages/autopep8.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/autopep8.cpython-312.pyc",
+    "Scripts/autopep8-script.py",
+    "Scripts/autopep8.exe"
+  ],
+  "fn": "autopep8-2.0.4-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\autopep8-2.0.4-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "83d827c891de466d378575ede743394c",
+  "name": "autopep8",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\autopep8-2.0.4-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/autopep8.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/autopep8-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::autopep8==2.0.4=pyhd3eb1b0_0[md5=83d827c891de466d378575ede743394c]",
+  "sha256": "eaf8edddf3981d0512af7cce12111b177a96b4655cb9d5858c960867ea2072cf",
+  "size": 44936,
+  "subdir": "noarch",
+  "timestamp": 1708962904000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/autopep8-2.0.4-pyhd3eb1b0_0.conda",
+  "version": "2.0.4"
+}
